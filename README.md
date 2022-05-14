@@ -1,3 +1,3 @@
 # JavaScript-Concepts
-
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbC1IVUFSVUlxYmtsN1hIUWVuZmstQk9kaUtQZ3xBQ3Jtc0tsX2E2OG14RFdBMmZNLS0tZXVudHl4bm9RMzFfNjRVX2pOeFZqTDZRb09RNV9icnJyTFl6Z295dDRrQ3UxXzVpNXhvdU56V0pVaUZYWmlGdzZnQ2pkSGZXclRzYW1leGZfUjQ4N3pkaXUwTi05dGdEOA&q=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1szmtyiymgBkIrsvtMzTESIh80uP2bUZGQ4BYAsdvfBM%2Fedit%3Fusp%3Dsharing&v=chx9Rs41W6g
+Concepts Lists
+https://docs.google.com/document/d/1szmtyiymgBkIrsvtMzTESIh80uP2bUZGQ4BYAsdvfBM/edit
