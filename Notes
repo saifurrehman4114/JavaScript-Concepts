@@ -1,3 +1,5 @@
 Variable Use Strict;
 
 var and let block scope vs function scope 
+
+let variable can be intilized
