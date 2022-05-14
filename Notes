@@ -1,5 +1,13 @@
-Variable Use Strict;
+Variable Use Strict; without var we can declare variables 
+
+
 
 var and let block scope vs function scope 
 
 let variable can be intilized
+
+String Indexing 
+spaces are also included
+.length function 
+
+total elements & last index .length-1 
