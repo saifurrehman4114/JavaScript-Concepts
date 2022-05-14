@@ -104,7 +104,13 @@ Booleans and Camparision
 <, >, >= , <=, true or false logical operators not and or xor odd 0 and 1 exor same 0,1
 
 
+== just check value for type check also use === 
 
+!= !==(type check)
+
+falsy 
+
+0 undefined false null empty string NaN
 
 
 
