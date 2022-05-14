@@ -1,4 +1,6 @@
-Variable Use Strict; without var we can declare variables 
+Variable Use Strictbecause of that when we declare var with variables it will enforce that var varible value can be changed witht he same variable name
+
+without var we can declare variables 
 
 
 
@@ -11,3 +13,99 @@ spaces are also included
 .length function 
 
 total elements & last index .length-1 
+
+str.trim reomves spaces gives new string and first string is immutable
+
+.toUpperCase  makes the string in Upper case
+.toLowerCase make the string in Lower case
+.slice method start index and end index not include end index like python [0:4]
+
+typeof tells the datatype of the data
+
+number to string 
+
+age = age + "";
+
+cosole.log(typeof age);
+
+type casting 
+
+let mystr = "34";
+
+str to number
+
+let mystr = +"34";
+
+function
+Number(mystr)
+
+concatination 
+
+let string1 = "saif";
+
+let string2 = "hahah";
+
+
+let fullName = string1 + " "+ string2 ;
+
+convert to number 
+
+
+let str1 = "17"
+
+let str2= "14"
+
+let newAdd = +str1 + +str2; answer 31
+
+
+template string 
+
+let Name = "Saif"
+
+let Me = " my name is" + Name;
+
+get rid of concatination 
+
+back ticks ``
+
+let age = 17
+let Me = `my Name is ${Name} and my age is ${age}`
+
+Undefined 
+
+var or let firstName; variable made but no value then undefined and for constant you will have to give otherwise  error
+
+print multiple things in console log 
+
+console.log(first value, second value)
+
+NULL
+
+let myVariable = null;
+
+object reference type null in typeof error in JavaScript
+
+BigInt
+
+let myNumber = 123;
+
+console.log(myNumber, MAX_SAFE_INTEGER);
+
+range of number can be store in Number data type
+
+let myNumber = BigInt(12);
+let myNumber = 123n; //same decalaration like above both are big int syntax is different 
+
+
+u cannot add number with BigInt as both have there on operations
+
+Booleans and Camparision 
+
+<, >, >= , <=, true or false logical operators not and or xor odd 0 and 1 exor same 0,1
+
+
+
+
+
+
+
