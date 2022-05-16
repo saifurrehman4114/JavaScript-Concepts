@@ -439,9 +439,25 @@ Var is function scope and main function var can be used in the file priority wou
 
 of same name
 
-Default Parameters
+Default Parameters in functions
+
+not pass second argument then it is undefined 
+
+rest paramters array other parameters which are not parameter
+
+saif(a,b,...c){
+
+}
+
+saif(1,2,3,4,5)
 
 
+Array.isArray()
+param destructing 
+
+object usage
+
+6:05
 
 
 
