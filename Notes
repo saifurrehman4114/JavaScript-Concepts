@@ -112,6 +112,161 @@ falsy
 
 0 undefined false null empty string NaN
 
+Truthy values other positve and negative value  
 
-1:40
+prompt() 
 
+console.log(typeof variable, value variable)
+
+Reference Types are object and store the address of the type memory store 
+Heap more space stack will have address in stack 
+
+and Primitive types non mutable imutable add  values to seprate location other than reference which stores address 
+Stack less space
+
+object literial 
+
+
+array is mutable
+ isArray
+ 
+ push, pop (Fast), shift(remove element from begining)  and unshift (add element) 
+
+array1=== array2
+
+clone seprate array 
+
+make arr1 and arr2 sperate 
+
+arr1 = [1,2,3];
+
+arr2 = [1,2,3];
+
+more elenmts arr2 arr1.slice() speed good 
+
+arr2 = [].concat(arr1);
+
+spread operator 
+
+
+let array2 = [...array1] good 
+
+add and concate elemets 
+
+
+arr1.slice(0).concat([1,2])
+
+same for others
+
+let array2 = [...array1,"items1"] arr 1 and more items into it 
+
+
+let array2 = [...array1,...arr2] copies arrayies and concate
+
+array.length  
+
+const array cannot assign again you can do push,pop etc methods 
+
+refernce type const 
+
+for of loop 
+
+fruits = [1,2,3]
+
+for(let fruit(singular) of fruits(plural naming ){
+console.log(fruit)
+}
+ 
+//values will be print untill last element
+
+
+//in index 
+for(let fruit(singular) in fruits(plural naming ){
+console.log(fruit)
+}
+
+for of is mostly used 
+
+
+Array Destructing 
+
+for giving values to the variables from array 
+
+const myArray = [1,2]
+
+let [myvar1,myvar2] = myArray;
+
+const [myvar1,myvar2] = myArray; //donot want to change 
+
+skip index
+
+let [myvar1,,myvar2] = myArray;
+
+rest would be store in the myNewArray 
+let [myvar1,myvar2,...myNewArray] = myArray;
+
+
+Objects reference type  key pair value donot have indexes 
+
+object literal 
+const person = {name:"saif",age:22}
+
+access data from object
+
+. access notation
+
+add value 
+
+person.gender = "male"
+
+person["gender"] key is in string single or double quote 
+
+person = {
+
+"name" : sa,
+}
+
+same as above
+person = {
+
+name : sa,
+}
+
+for bracket notation "person hobbies"
+
+person["person hobbies"]
+
+
+let key = "saif"
+person[key] = "hi"
+
+
+iterate the objects 
+
+
+object.keys and in 
+
+for(let key in person){
+
+console.log(person[key]);
+
+
+console.log(`${key } ${person[key]}`);
+
+console.log(key ,person[key]);
+
+}
+
+
+
+Objectkeys.keys(person) // returns array 
+
+for(let key of Objects.keys(person)){
+
+console.log(person[key])
+
+}
+
+
+
+Computed properties  4:18:15
