@@ -208,6 +208,8 @@ let [myvar1,myvar2,...myNewArray] = myArray;
 
 Objects reference type  key pair value donot have indexes 
 
+key should be unique 
+
 object literal 
 const person = {name:"saif",age:22}
 
@@ -267,6 +269,167 @@ console.log(person[key])
 
 }
 
+computing properties
+
+obj = {
+
+[key1] : "",
+
+[key2] :""
+}
+
+obj[key1] = value1;
 
 
-Computed properties  4:18:15
+SPREAD OPERATOR 
+
+ 
+iterable string array
+
+let newArray = [..."abc"]
+
+same key would be overide with the last one key 
+
+
+new object clone
+
+newobj = {...obj1}
+
+add key 
+
+newobj = {...obj1,key22:"alue"}
+
+newobject = {..."abc"}
+
+newobject = {...["abc"]}
+
+array to object or string to object 
+
+
+Object Destructuing 
+
+const band = {
+bandName : "sa"
+
+}
+
+const {bandName} = band;
+
+
+const {bandName:var2} = band;
+
+const {bandName:var2,...restProps} = band;
+
+objects inside arrays 
+
+const users = [
+
+{userId: 1, firstName:"saif" }
+
+
+{userId: 2, firstName:"Asif" }
+
+]
+
+
+nested destruture 
+
+
+const users = [
+
+{userId: 1, firstName:"saif" }
+
+
+{userId: 2, firstName:"Asif" }
+
+]
+
+
+const [user1,user2] = users
+
+object destructure
+
+const [{firstname},{username}] = users
+
+const [{firstname: userFirstName,userId},{username: userGender}] = users
+
+
+functions 
+
+fnction saif(){
+
+}
+
+undefined + undefined = NaN 
+
+
+
+function decalaration and function decalaration var assign declaration 
+
+function sayHello(){
+console.log("Hi");
+}
+
+const sayHello =  
+
+function (){
+console.log("Hi");
+}
+
+arrow function 
+let sayHello = () =>{
+
+
+}
+
+
+one parameter 
+
+let saif = number => {
+
+}
+
+
+one line
+
+let saif = number => return console.log("saif")
+
+
+
+Hoisting 
+
+function call before  declaration not for function expression or arrow cannot for call
+
+
+
+console.log(hello) undefined
+
+hello = "saf"
+
+
+console.log(hello) saf
+var undefined 
+
+let const error before 
+
+
+call back function 
+
+function inside function 
+
+app = () => {
+
+saif = () => {
+
+ console.log(saif1111111);
+}
+
+
+console.log("saif")
+
+saif();
+}
+
+
+
+
