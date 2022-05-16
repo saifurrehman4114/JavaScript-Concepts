@@ -430,6 +430,18 @@ console.log("saif")
 saif();
 }
 
+lexical Scope envirnment 
+
+
+Let,Const are block environment 
+
+Var is function scope and main function var can be used in the file priority would be given the nearest scope
+
+of same name
+
+Default Parameters
+
+
 
 
 
