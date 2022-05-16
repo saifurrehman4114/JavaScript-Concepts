@@ -456,8 +456,74 @@ Array.isArray()
 param destructing 
 
 object usage
+function Saif({firstname})
+{}
 
-6:05
+saif(obj)
+
+obj{
+firdtname : "saif"
+}
+
+
+call back function 
+
+myFunc2(){
+
+console.log("function2")
+}
+
+myfunc1(callback){
+
+callback();
+}
+
+myfunct1(myfunc2)
 
 
 
+function returning function
+
+
+function func(){
+
+function hello(){
+
+}
+
+return hello;
+}
+
+
+ans = funct();
+
+ans will contain hello functiin
+
+
+higher function takes input and return function 
+
+
+ARRAY Methods
+
+forEach take index value and do some function  takes index and value of the array
+
+
+numbers.forEach(function(number,index){
+
+});
+
+
+
+
+ 
+
+map new array and save in variable 
+number.map() if no return is from call back function then it is undefined for each element 
+
+
+filter condition and return an array which statisifes the condition true or false add value of true in the array  from callback 
+
+reduce call baarray ck function return acummulator value and current value will be of cuurent array 
+
+
+Sort Method 7:04   
