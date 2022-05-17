@@ -524,6 +524,44 @@ number.map() if no return is from call back function then it is undefined for ea
 filter condition and return an array which statisifes the condition true or false add value of true in the array  from callback 
 
 reduce call baarray ck function return acummulator value and current value will be of cuurent array 
+returns value 
+
+Sort Method mutable string sort 
+
+numbers.sort((a,b)=>{
+return a-b
+
+})
+
++ a,b greater than 0 
+
+-ve b,a
+
+descending b-a
 
 
-Sort Method 7:04   
+
+find not find then undefiend 
+
+every method returns ttue or false returns boolean when all elemts are true 
+
+some method true if any condition is true 
+
+fill add items 
+
+myArray =  new Array(10).(0);
+
+
+exisitng array fil value  start end 
+
+mutable 
+Slice 
+start delete or insert 
+mutable 
+
+insert and delete together 
+
+returns deleted items
+
+
+Iterables for of loop 
