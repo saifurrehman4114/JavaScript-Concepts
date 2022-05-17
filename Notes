@@ -565,3 +565,63 @@ returns deleted items
 
 
 Iterables for of loop 
+
+
+Objects are not iterable 
+
+
+Array like object lenght and access through index 
+
+
+Set iterable ,no index based access no duplicates oreder is not done 
+
+unique and no duplicate set return new eleemtns extract value 
+
+
+MAP object 
+
+object literial is keys in symbol and string 
+
+
+const person = new Map()
+
+key can be of any type set and get methods  and also keys method 
+
+object in for in loop can be done
+
+iterable for of loop 
+
+u can get destructure in map order fashion not in object 
+
+object assign Object.assign({},obj) 
+
+optional chaining ?. undefined exits null or undefined not accesss it and stop nested object 
+
+method inside object to get values of the object u can use this run ime 
+
+this and window in the brower is the same 
+
+your function will be added to the window
+
+use strict then undefined
+
+.call also function 
+
+call,apply, bind
+
+oen function can be callled with other using 
+
+call then u bind with the object with the function 
+
+u can pass arugumnets to
+
+apply array u can pass arguments
+ 
+
+blind function return just save that and call that thing it will call the function 
+
+arrow function does not have this takes this from surronding 
+
+cannot thing the this of arrow function one level above 
+
+9:15
