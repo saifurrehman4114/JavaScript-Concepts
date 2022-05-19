@@ -684,4 +684,54 @@ Static Class method and static properties common data
 
 
 
+ js Works
+ 
+compile phase tokenizing lexing break code tokens, parsing abstract syntax tree excutable code AST and code generation
 
+eARLY ERROR cHECKING
+
+Determning APPROIATE Scope variable
+
+not in function global scope 
+
+
+Code Execution Phase Excute in Excution Context Global Exexution Text 
+
+-creation Phase 
+ Global Memory
+ 
+this value in broswer other node js different 
+
+-Code excution phase 
+
+Java SIngle Thread and Synchrous Programming
+
+Global Execution in Stack ,function will also be 
+
+gLOABL eNVIRONEMNT code which also makes an object 
+
+
+Hoisting MEMEORY store in Global Execution context 
+
+Stack Pop from current GLobal excution context and current execution
+
+In function expression undefined not on proper function declaration 
+
+var function in function expression undefined 
+
+GEC -> Creation - Global Memoery and Code Execution  
+
+Let uninitilized there will be error same for const do hoisting  
+
+Temporal Dead Zone uninitlized till initlized time duration for that is Temporal
+
+not for const 
+
+
+function Exceution Context new excecution context create local memoery creatation and code execute 
+
+arguments like oject 
+
+Closure function can return function 
+
+return functions returns with it's local variables and it's name present returnns local variables lexical environment inner outer function he can access 
