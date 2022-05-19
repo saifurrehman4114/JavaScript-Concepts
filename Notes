@@ -736,4 +736,11 @@ Closure function can return function
 
 return functions returns with it's local variables and it's name present returnns local variables lexical environment inner outer function he can access 
 
-2:30
+Async vs Defer 
+
+Async Parse Javascript then parsing and Javascript file will parse together and js load file will excute then untill html is stopped 
+defer parsing and loading together untill both are done
+
+use defer excecute
+
+3:39
