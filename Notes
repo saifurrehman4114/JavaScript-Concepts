@@ -624,4 +624,64 @@ arrow function does not have this takes this from surronding
 
 cannot thing the this of arrow function one level above 
 
-9:15
+copy one object to the other use Object.create chain of protype and gives empty protoype also 
+
+
+proto sees inside when something is not find it stores references 
+
+___proto__, [[prototype]] are same
+
+sets prottype chaining 
+
+objects functions seprate and give reference to the object to reduce function definition more lines 
+
+prototype is different 
+
+PROTOTYPE
+
+Function ===> Function + Object
+FUNCTION are also object to u can treat 
+
+u can also add properties add keypair value 
+
+it gives us free space empty object protype 
+
+It has constructor it gives us functions protype property 
+
+function provides us useful properties 
+
+add propertie and functions 
+
+
+create connection between proto and protype 
+
+protype object and proto chain reference 
+
+New keyword 
+
+create object which is empty this {} return this gives protype links the proto automatically  
+
+Constructor function object new call with Capital word 
+
+hasOwnProperty() tells his own property rather than protype 
+
+Object.getPrototypeOf()
+
+change protype just do .protype = [] 
+
+Classes are fake cannot call the class without new 
+
+Inheritance just use extends keyword 
+
+super(name,age) takes properties of the parent class and gives it to the subclass 
+
+get and setter just add get and set before the function name 
+
+Static Properties and Methods
+
+Static Class method and static properties common data 
+
+
+
+
+
