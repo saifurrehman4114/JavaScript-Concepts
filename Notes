@@ -743,4 +743,23 @@ defer parsing and loading together untill both are done
 
 use defer excecute
 
-3:39
+DOM will make html tree in object in Window and store in it as a key pair
+
+documents have object and also for style 
+
+Set and get attribute
+
+get elements by Id,Class name
+
+forEach through for each html collection
+
+node list u can use all loop
+
+innerhtml and transverse 
+Class List
+
+getElementById live list
+
+querySelectorAll static list
+
+7:04
