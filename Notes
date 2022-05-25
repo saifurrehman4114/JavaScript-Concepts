@@ -763,3 +763,5 @@ getElementById live list
 querySelectorAll static list
 
 first capture bubling and then bubbling
+
+event delegation from child to parent to grandparent event is delegated
